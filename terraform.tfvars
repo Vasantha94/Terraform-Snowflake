@@ -1,0 +1,8 @@
+snowflake_account = "syxecth-xc37959"
+snowflake_username = "VASANTHA"
+snowflake_password = "Vasantha@94"
+warehouse_name      = "warehouse1"
+database_name       = "database1"
+schema_name         = "schema1"
+table_name          = "table1"
+role_name           = "role1"
