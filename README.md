@@ -18,7 +18,7 @@ This repository contains Terraform scripts/modules to automate the provisioning 
 - `modules/`: Contains subdirectories for each Snowflake resource type, each with its own Terraform configuration files.
 - `main.tf`: Orchestrates the provisioning of Snowflake resources using the modules.
 - `variables.tf`: Defines Terraform input variables used across the project.
-- `terraform.tfvars.example`: Example file containing template values for input variables.
+- `terraform.tfvars`: This file containing template values for input variables.
 - `README.md`: Provides documentation and instructions for using the Terraform scripts/modules.
 
 ## Additional Notes
